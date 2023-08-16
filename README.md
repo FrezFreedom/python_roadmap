@@ -40,17 +40,22 @@ This roadmap is designed for individuals who are interested in learning Python a
   - What is Hotcode.org?
   - Parts of Hotcodes
   - Problem-solving in Hotcodes
-  - **Exercise:** [Hello Hotcode! problem](hotcodes.org/problems)
+  - **Exercise:** [Hello Hotcode! problem](https://hotcodes.org/problems)
     - [**Solution**](youtube.com) *youtube video*
 
 #### Variables
 ----
 - [Types Variables](youtube.com) *youtube video*
+  - Definition and usage of variables 
   - What is the type? and How we can detect it.
   - types of variables and their usages
 - [Types Castings](youtube.com) *youtube video*
+  - Cast variables
   - Possible and impossible castings
-  - 
+- [Mathmatics Statments](youtube.com) *youtube video*
+  - Simple math calculation
+  - Complex math calculation
+  - Operator precedence in mathematics
 
 #### Inputs & Outputs
 ----
@@ -59,11 +64,11 @@ This roadmap is designed for individuals who are interested in learning Python a
   - Writing variables with the print function
   - Details of the input function
   - Details of the print function
-  - **Exercise:** [Hasan's score problem](hotcodes.org/problems)
+  - **Exercise:** [Hasan's score problem](https://hotcodes.org/problems)
     - [**Solution**](youtube.com) *youtube video*
-  - **Exercise:** [MMD's Quantum Calculator](hotcodes.org/problems)
+  - **Exercise:** [MMD's Quantum Calculator](https://hotcodes.org/problems)
     - [**Solution**](youtube.com) *youtube video*
-  - **Exercise:** [Melis' school form](hotcodes.org/problems)
+  - **Exercise:** [Melis' school form](https://hotcodes.org/problems)
     - [**Solution**](youtube.com) *youtube video*
 
 #### If Conditions
