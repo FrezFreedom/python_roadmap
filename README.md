@@ -12,3 +12,19 @@ This roadmap is designed for individuals who are interested in learning Python a
 #### Background Requirements for Starting this Roadmap
 
 > No prior background is necessary to begin this roadmap. Simply approach the exercises with dedication and seriousness.
+
+
+#### Chapters Chart
+
+| No. | Chapter Name |
+| --- | ------------ |
+| 0   | [Introduction](#introduction) |
+| 1   | [Variables](#variables) |
+| 2   | [If Conditions](#if_Conditions) |
+| 3   | [Loops](#loops) |
+| 4   | [Lists](#lists) |
+| 5   | [Strings](#strings) |
+| 6   | [Functions](#functions) |
+| 7   | [Tuples](#tuples) |
+| 8   | [Sets](#sets) |
+| 9   | [Dictionaries](#dictionaries) |
