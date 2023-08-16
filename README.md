@@ -20,11 +20,72 @@ This roadmap is designed for individuals who are interested in learning Python a
 | --- | ------------ |
 | 0   | [Introduction](#introduction) |
 | 1   | [Variables](#variables) |
-| 2   | [If Conditions](#if_Conditions) |
-| 3   | [Loops](#loops) |
-| 4   | [Lists](#lists) |
-| 5   | [Strings](#strings) |
-| 6   | [Functions](#functions) |
-| 7   | [Tuples](#tuples) |
-| 8   | [Sets](#sets) |
-| 9   | [Dictionaries](#dictionaries) |
+| 2   | [Inputs & Ouputs](#variables) |
+| 3   | [If Conditions](#if_Conditions) |
+| 4   | [Loops](#loops) |
+| 5   | [Lists](#lists) |
+| 6   | [Strings](#strings) |
+| 7   | [Functions](#functions) |
+| 8   | [Tuples](#tuples) |
+| 9   | [Sets](#sets) |
+| 10   | [Dictionaries](#dictionaries) |
+
+
+#### Introduction
+----
+- [Hello python](youtube.com)
+  - Install python
+  - Install Visual Studio Code
+- Hello Hotcodes!
+  - What is Hotcode.org?
+  - Parts of Hotcodes
+  - Problem-solving in Hotcodes
+  - **Exercise:** [Hello Hotcode! problem](hotcodes.org/problems)
+    - [**Solution**](youtube.com) *youtube video*
+
+#### Variables
+----
+- [Types Variables](youtube.com) *youtube video*
+  - What is the type? and How we can detect it.
+  - types of variables and their usages
+- [Types Castings](youtube.com) *youtube video*
+  - Possible and impossible castings
+  - 
+
+#### Inputs & Outputs
+----
+- [Input & Output](youtube.com) *youtube video*
+  - Reading variables with the input function
+  - Writing variables with the print function
+  - Details of the input function
+  - Details of the print function
+  - **Exercise:** [Hasan's score problem](hotcodes.org/problems)
+    - [**Solution**](youtube.com) *youtube video*
+  - **Exercise:** [MMD's Quantum Calculator](hotcodes.org/problems)
+    - [**Solution**](youtube.com) *youtube video*
+  - **Exercise:** [Melis' school form](hotcodes.org/problems)
+    - [**Solution**](youtube.com) *youtube video*
+
+#### If Conditions
+----
+
+#### Loops
+----
+
+#### Lists
+----
+
+#### Strings
+----
+
+#### Functions
+----
+
+#### Tuples
+----
+
+#### Sets
+----
+
+#### Dictionaries
+----
