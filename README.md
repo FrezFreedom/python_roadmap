@@ -73,6 +73,16 @@ This roadmap is designed for individuals who are interested in learning Python a
 
 #### If Conditions
 ----
+- [The proposition](youtube.com) *youtube video*
+  - Proposition Definition and Creation
+  - Define simple propostion in real world and python
+  - Logic operators and complex propostion
+- [If statment](youtube.com) *youtube video*
+  - Use proposition for create conditional statment
+  - Solve simple questions to deep in concept
+  - **Exercise:** [Samin' Mathmatics question](https://hotcodes.org/problems)
+    - [**Solution**](youtube.com) *youtube video*
+
 
 #### Loops
 ----
