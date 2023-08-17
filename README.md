@@ -184,12 +184,50 @@ This roadmap is designed for individuals who are interested in learning Python a
 - [BinarySearch Algorithm](https://www.youtube.com/@hotcodes_academy) *youtube video*
   - Describe BinirySearch Algorithm and when we can use it
   - 
+- [Chortke - Simple Hash Table](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - How we count? and How we can save statistics?
+  -
+  -
+- [Two pointers Algorithm](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - How we can merge two sorted arrays?
+
+
 
 #### Strings
 ----
+- [Strings](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - What is String?
+  - String VS List
+  -
+- [Strings manipulation](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - Concate strings
+  - Formating strings
+  - How we can change characters of string
+  - **Exercise:** [Check exist string in an other string](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - **Exercise:** [Check palindrom string](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  
 
 #### Functions
 ----
+- [Function](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - What is the function? and usage
+  - create several types of functions
+  - **Exercise:** [A problem that need call funtion a lot of times](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+- [Parameters passing and Scoping](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - Pass types of differents
+  - Types of Scopes
+- [Recursive Function](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - How we can implement recursive function?
+  - implement power function recursively
+- [Concept of Recursive Function](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - what is the stack?
+  - How recursive function working? with power function
+  - Implement recursive function for factorial and describe it again
+  - **Exercise:** [A recursive function problem](https://hotcodes.org/problems)
+
 
 #### Tuples
 ----
