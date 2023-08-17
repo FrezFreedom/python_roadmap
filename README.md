@@ -138,10 +138,52 @@ This roadmap is designed for individuals who are interested in learning Python a
 - [For structure](https://www.youtube.com/@hotcodes_academy) *youtube video*
   - Describe for structure and compare it with while structure
   - When While, When For
-  
+
 
 #### Lists
 ----
+- [List Definition and usage](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - What is list and why?
+  - How to intialize List
+  - Read & Write List
+  - Work with every elements as simple variable
+- [Input & Ouput List](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - How we can read list with input function and write it in several types
+  - **Exercise:** [Check the number exist in List or not](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - **Exercise:** [Print Min & Max number in List](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - **Exercise:** [Reverse List](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - **Exercise:** [Increase every element of List](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - **Exercise:** [Find Biggest diffirence](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - **Exercise:** [Sort List that has just 2 elements](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - **Exercise:** [Sort List that has just 3 elements](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+- [BubbleSort Algorithm](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - Describe BubbleSort Algorithm
+  - **Exercise:** [Sort List](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - **Exercise:** [Find Median](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+- [SelectionSort Algorithm](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - Describe SelectionSort Algorithm
+  - **Exercise:** [Find Index of Minimum number](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - **Exercise:** [Sort List](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+- [InsertionSort Algorithm](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - Describe InsertionSort Algorithm
+  - **Exercise:** [Add Number In Sorted List](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - **Exercise:** [Sort List](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+- [BinarySearch Algorithm](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - Describe BinirySearch Algorithm and when we can use it
+  - 
 
 #### Strings
 ----
