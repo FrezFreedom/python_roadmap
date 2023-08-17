@@ -90,6 +90,55 @@ This roadmap is designed for individuals who are interested in learning Python a
 
 #### Loops
 ----
+- [Why loops? & while structure](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - Why need loops? and how to handle the curculation
+  - Create loop for print multiple *
+  - Create loop for print numbers from 1 to 100
+  - Create loop for implement summtion
+  - **Exercise:** [Print even numbers in range](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+- [Number Digits Sepration](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - Simple digits without loops
+  - Create a loop for seprate digits
+  - **Exercise:** [Print revert number](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - **Exercise:** [Detect palindrom number](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - **Exercise:** [Sum of all digits of number](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+- [Print Shapes & nested loops](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - Create a line with ```*``` or ```-```
+  - Create a simple Square
+  - **Exercise:** [Simple Square](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - **Exercise:** [Triangle 1](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - **Exercise:** [Triangle 2](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - **Exercise:** [Triangle 3](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - **Exercise:** [Triangle 4](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - **Exercise:** [Square with Big Hole](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - **Exercise:** [Square with main diameter](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - **Exercise:** [Square with minor diameter](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - **Exercise:** [Square with main & minor diameter](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - **Exercise:** [Snake movement in rectangle](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+- [Hamiltonian distance](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - Define Hamiltonian distance and implement it
+  - **Exercise:** [Compute Euclidean Distance and Hamiltonian distance](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - **Exercise:** [Diamond Shape](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+- [For structure](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - Describe for structure and compare it with while structure
+  - When While, When For
+  
 
 #### Lists
 ----
