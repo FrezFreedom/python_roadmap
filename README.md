@@ -33,7 +33,7 @@ This roadmap is designed for individuals who are interested in learning Python a
 
 #### Introduction
 ----
-- [Hello python](youtube.com)
+- [Hello python](https://www.youtube.com/@hotcodes_academy)
   - Install python
   - Install Visual Studio Code
 - Hello Hotcodes!
@@ -41,47 +41,51 @@ This roadmap is designed for individuals who are interested in learning Python a
   - Parts of Hotcodes
   - Problem-solving in Hotcodes
   - **Exercise:** [Hello Hotcode! problem](https://hotcodes.org/problems)
-    - [**Solution**](youtube.com) *youtube video*
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
 
 #### Variables
 ----
-- [Types Variables](youtube.com) *youtube video*
+- [Types Variables](https://www.youtube.com/@hotcodes_academy) *youtube video*
   - Definition and usage of variables 
   - What is the type? and How we can detect it.
   - types of variables and their usages
-- [Types Castings](youtube.com) *youtube video*
+- [Types Castings](https://www.youtube.com/@hotcodes_academy) *youtube video*
   - Cast variables
   - Possible and impossible castings
-- [Mathmatics Statments](youtube.com) *youtube video*
+- [Mathmatics Statments](https://www.youtube.com/@hotcodes_academy) *youtube video*
   - Simple math calculation
   - Complex math calculation
   - Operator precedence in mathematics
 
 #### Inputs & Outputs
 ----
-- [Input & Output](youtube.com) *youtube video*
+- [Input & Output](https://www.youtube.com/@hotcodes_academy) *youtube video*
   - Reading variables with the input function
   - Writing variables with the print function
   - Details of the input function
   - Details of the print function
   - **Exercise:** [Hasan's score problem](https://hotcodes.org/problems)
-    - [**Solution**](youtube.com) *youtube video*
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
   - **Exercise:** [MMD's Quantum Calculator](https://hotcodes.org/problems)
-    - [**Solution**](youtube.com) *youtube video*
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
   - **Exercise:** [Melis' school form](https://hotcodes.org/problems)
-    - [**Solution**](youtube.com) *youtube video*
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
 
 #### If Conditions
 ----
-- [The proposition](youtube.com) *youtube video*
+- [The proposition](https://www.youtube.com/@hotcodes_academy) *youtube video*
   - Proposition Definition and Creation
   - Define simple propostion in real world and python
   - Logic operators and complex propostion
-- [If statment](youtube.com) *youtube video*
+- [If statment](https://www.youtube.com/@hotcodes_academy) *youtube video*
   - Use proposition for create conditional statment
   - Solve simple questions to deep in concept
   - **Exercise:** [Samin' Mathmatics question](https://hotcodes.org/problems)
-    - [**Solution**](youtube.com) *youtube video*
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - **Exercise:** [Which is bigger?](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - **Exercise:** [The Biggest](https://hotcodes.org/problems)
+    - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
 
 
 #### Loops
