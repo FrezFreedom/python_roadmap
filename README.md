@@ -46,14 +46,18 @@ This roadmap is designed for individuals who are interested in learning Python a
 
 #### Variables
 ----
-- [Types Variables](https://www.youtube.com/@hotcodes_academy) *youtube video*
+- [Types Variables](https://www.youtube.com/@hotcodes_academy) <sub><sup>*Youtube video*</sup></sub>
   - Definition and usage of variables 
+  - Variable naming rules
   - What is the type? and How we can detect it.
   - types of variables and their usages
-- [Types Castings](https://www.youtube.com/@hotcodes_academy) *youtube video*
+  - Multiple assignment
+- [Types Castings](https://www.youtube.com/@hotcodes_academy) <sub><sup>*Youtube video*</sup></sub>
+  - Implicit type conversion
+  - Explicit type conversion
   - Cast variables
   - Possible and impossible castings
-- [Mathmatics Statments](https://www.youtube.com/@hotcodes_academy) *youtube video*
+- [Mathmatics Statments](https://www.youtube.com/@hotcodes_academy) <sub><sup>*Youtube video*</sup></sub>
   - Simple math calculation
   - Complex math calculation
   - Operator precedence in mathematics
@@ -65,11 +69,11 @@ This roadmap is designed for individuals who are interested in learning Python a
   - Writing variables with the print function
   - Details of the input function
   - Details of the print function
-  - **Exercise:** [Hasan's score problem](https://hotcodes.org/problems)
+  - **Exercise:** [Hasan's score problem](https://hotcodes.org/problems) <sub><sup>*Hotcodes exercise*</sup></sub>
     - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
-  - **Exercise:** [MMD's Quantum Calculator](https://hotcodes.org/problems)
+  - **Exercise:** [MMD's Quantum Calculator](https://hotcodes.org/problems) <sub><sup>*Hotcodes exercise*</sup></sub>
     - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
-  - **Exercise:** [Melis' school form](https://hotcodes.org/problems)
+  - **Exercise:** [Melis' school form](https://hotcodes.org/problems) <sub><sup>*Hotcodes exercise*</sup></sub>
     - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
 
 #### If Conditions
@@ -204,30 +208,35 @@ This roadmap is designed for individuals who are interested in learning Python a
   - Concate strings
   - Formating strings
   - How we can change characters of string
-  - **Exercise:** [Check exist string in an other string](https://hotcodes.org/problems)
+  - **Exercise:** [Check exist string in an other string](https://hotcodes.org/problems) <sub><sup>*Hotcodes exercise*</sup></sub>
     - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
-  - **Exercise:** [Check palindrom string](https://hotcodes.org/problems)
+  - **Exercise:** [Check palindrom string](https://hotcodes.org/problems) <sub><sup>*Hotcodes exercise*</sup></sub>
     - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
   
 
 #### Functions
 ----
-- [Function](https://www.youtube.com/@hotcodes_academy) *youtube video*
+- [**Function**](https://www.youtube.com/@hotcodes_academy) <sub><sup>*Youtube video*</sup></sub>
   - What is the function? and usage
   - create several types of functions
   - **Exercise:** [A problem that need call funtion a lot of times](https://hotcodes.org/problems)
     - [**Solution**](https://www.youtube.com/@hotcodes_academy) *youtube video*
-- [Parameters passing and Scoping](https://www.youtube.com/@hotcodes_academy) *youtube video*
+- [**Parameters passing and Scoping**](https://www.youtube.com/@hotcodes_academy) <sub><sup>*Youtube video*</sup></sub>
   - Pass types of differents
   - Types of Scopes
-- [Recursive Function](https://www.youtube.com/@hotcodes_academy) *youtube video*
+- [**Built-in Genral functions**](https://www.youtube.com/@hotcodes_academy) <sub><sup>*Youtube video*</sup></sub>
+  - What is the built-in functions?
+  - Speak about some important built-in functions (eval, ord, etc.)
+- [**Built-in Mathmatics functions**](https://www.youtube.com/@hotcodes_academy) <sub><sup>*Youtube video*</sup></sub>
+  - Math Library functions (abs, round, sin, cos, etc.)
+- [**Recursive Function**](https://www.youtube.com/@hotcodes_academy) <sub><sup>*Youtube video*</sup></sub>
   - How we can implement recursive function?
   - implement power function recursively
-- [Concept of Recursive Function](https://www.youtube.com/@hotcodes_academy) *youtube video*
+- [**Concept of Recursive Function**](https://www.youtube.com/@hotcodes_academy) <sub><sup>*Youtube video*</sup></sub>
   - what is the stack?
   - How recursive function working? with power function
   - Implement recursive function for factorial and describe it again
-  - **Exercise:** [A recursive function problem](https://hotcodes.org/problems)
+  - **Exercise:** [A recursive function problem](https://hotcodes.org/problems) <sub><sup>*Hotcodes exercise*</sup></sub>
 
 
 #### Tuples
