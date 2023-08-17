@@ -33,9 +33,10 @@ This roadmap is designed for individuals who are interested in learning Python a
 
 #### Introduction
 ----
-- [Hello python](https://www.youtube.com/@hotcodes_academy) <small>*youtube video*</small>
+- [Hello python](https://www.youtube.com/@hotcodes_academy) <span style='font-size:5px;'>*youtube video*</span>
   - Install python
   - Install Visual Studio Code
+  - Write simple code
 - Hello Hotcodes!
   - What is Hotcode.org?
   - Parts of Hotcodes
